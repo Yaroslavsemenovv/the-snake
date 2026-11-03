@@ -4,8 +4,9 @@
 ввода и основной игровой цикл, реализованные с помощью Pygame.
 """
 
-import pygame
 from random import choice, randint
+
+import pygame
 
 # Константы для размеров поля и сетки:
 SCREEN_WIDTH, SCREEN_HEIGHT = 640, 480
